@@ -3,14 +3,14 @@
 
 **+** __**Repository Info**__
 
-As from the March 2024, the Download Size for this Repo is : **29 MB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
+As from the September 2024, the Download Size for this Repo is : **32.5 MB ** ( Please Note The Size Can Change At Anytime Due Too Updates. )
 **This Repository is of all thinks found and mined. This repo is organized based on category and is a combination of downloaded/remote assets and assets found inside the APK and Sources.**
 
 
 **+** __**Files and Folder Structure.**__
 
 **Images**
-All images in this repo are found and mined and are located are organized based on category e.g. Berries, Boxs, Camera, Eggs, Evolution, Gifts, Incense, Incubator, Lucky Eggs, Lures, Poffin, Pokeballs, Pokecoin, Postcard Book, Potions, Radars, Raid Pass, Revives, Star Piece, Stardust, Storage, Team Medallion, Tickets, TM and More.
+All images in this repo are found and mined and are located are organized based on category e.g. Berries, Boxs, Camera, Eggs, Evolution, Gifts, Incense, Incubator, Lucky Eggs, Lures, Poffin, Pokeballs, Pokecoin, Postcard Book, Potions, Raid Pass, Revives, Star Piece, Stardust, Storage, Team Medallion, Tickets, TM and More.
 
 
 ## __**Disclaimer**__
